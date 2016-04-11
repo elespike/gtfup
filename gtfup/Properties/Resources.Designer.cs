@@ -63,9 +63,9 @@ namespace gtfup.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Icon mznlab {
+        internal static System.Drawing.Icon mznlab_16 {
             get {
-                object obj = ResourceManager.GetObject("mznlab", resourceCulture);
+                object obj = ResourceManager.GetObject("mznlab_16", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }

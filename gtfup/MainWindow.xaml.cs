@@ -21,7 +21,7 @@ namespace gtfup
             SystemEvents.SessionSwitch += new SessionSwitchEventHandler(SystemEvents_SessionSwitch);
             InitializeComponent();
             trayIcon = new System.Windows.Forms.NotifyIcon();
-            trayIcon.Icon = (System.Drawing.Icon)Properties.Resources.ResourceManager.GetObject("mznlab");
+            trayIcon.Icon = (System.Drawing.Icon)Properties.Resources.ResourceManager.GetObject("mznlab_16");
             trayIcon.BalloonTipText = minLeft.ToString();
             trayIcon.Visible = true;
             trayIcon.Click += trayIcon_Click;

@@ -1,7 +1,7 @@
 ﻿<Window x:Class="gtfup.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="GTFUP" Height="240" Width="240" Icon="mznlab.ico"
+        Title="GTFUP" Height="240" Width="240" Icon="mznlab_16.ico"
         Closed="Window_Closed" WindowStartupLocation="CenterScreen"
         Topmost="True" ResizeMode="NoResize">
     <Grid>
